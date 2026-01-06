@@ -75,11 +75,10 @@ The `cv.typ` file is designed to be easily customizable:
 
 Simply open `cv.typ` in your favorite text editor and update the content. The Typst syntax is intuitive and well-documented at [typst.app/docs](https://typst.app/docs).
 
-## Tips
-
-- Use the [Typst web app](https://typst.app/) for online editing with live preview
-- Check the [official documentation](https://typst.app/docs) for advanced formatting options
-- The single-file approach keeps everything organized and version-control friendly
+> [!TIP]
+> - Use the [Typst web app](https://typst.app/) for online editing with live preview
+> - Check the [official documentation](https://typst.app/docs) for advanced formatting options
+> - The single-file approach keeps everything organized and version-control friendly
 
 ## License
 
