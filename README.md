@@ -32,6 +32,15 @@ A clean, professional CV template built with Typst. This single-file template is
      sudo chmod +x /usr/local/bin/typst
      ```
 
+## Required Fonts
+
+The current template uses the following fonts:
+
+- [Gill Sans](https://font.download/font/gill-sans-2) - Used for headings and emphasis
+- [EB Garamond](https://fonts.google.com/share?selection.family=EB+Garamond:ital,wght@0,400..800;1,400..800) - Used for body text
+
+To properly render this template, make sure both fonts are installed on your system. You can easily modify the `cv.typ` file to use any fonts installed on your machine.
+
 ## Usage
 
 ### Compile your CV
